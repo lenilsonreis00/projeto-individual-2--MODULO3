@@ -142,15 +142,15 @@ INSERT INTO relatorio VALUES
  
 INSERT INTO cursoempresa VALUES 
 
-(77382821,993848), 
+(12457896,120305), 
 
-(77382821,228293), 
+(25478963,154205), 
 
-(22000049,1279182), 
+(22035478,032147), 
 
-(22000049,1212121), 
+(30214578,120448), 
 
-(55558992,1234123);
+(55448899,145897);
 
 1.Qual empresa utiliza o maior número de tecnologias na última pesquisa (2/2022)? 
 
